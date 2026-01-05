@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research is in graph theory and combinatorics, with a focus on colouring, homomorphisms, and structural properties of directed, signed, and edge-coloured graphs. 
+My research lives in the intersection of discrete mathematics and theoretical computer science, with a focus on colouring, homomorphisms, and structural properties of directed, signed, and edge-coloured graphs. 
 Much of my work is concerned with understanding how classical notions from graph theory, such as chromatic number, transitivity, and clique structure, behave when extended to settings where edges carry additional structure, such as directions, signs, or colours.
 A recurring theme is the use of homomorphisms as a unifying framework for both structural and algorithmic questions. 
 I study how local constraints on orientation or colouring influence global behaviour.
