@@ -11,7 +11,7 @@ A recurring theme is the use of homomorphisms as a unifying framework for both s
 I study how local constraints on orientation or colouring influence global behaviour.
 This includes work on oriented graphs, mixed graphs, and edge-coloured graphs, where familiar invariants often exhibit more subtle behaviour than in the undirected case. I am also interested in switching operations and symmetry in coloured graphs, including group-based switching and its role in equivalence, extremal constructions, and Ramsey-type problems. 
 
-A significant part of my research involves collaboration with students, and many projects originate in undergraduate and honours research. I value problems that are structurally rich, technically precise, and accessible at multiple levels of mathematical maturity.
+A significant part of my research involves collaboration with students, and many projects originate in undergraduate and honours research. I am always looking for undergraduate students who are interested in research in discrete mathematics and/or theoretical computer science.
 
 A full list of my publications is available here [here](/publications)
 
