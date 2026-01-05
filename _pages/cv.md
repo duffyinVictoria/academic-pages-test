@@ -57,7 +57,7 @@ Editorial and Peer Review Work
 
 Publications
 ======
-  A full list of publications is available here
+  A full list of publications is available [here](/publications)
   
 Education
 ======
