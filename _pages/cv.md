@@ -32,17 +32,36 @@ Education
 * Assistant Professor (Tenure Track), Department of Mathematics and Statistics, University of Saskatchewan
 * AARMS Postdoctoral Fellow, Dalhousie University
 
+**Teaching and Learning Innovation Projects**
+======
+*SparkAI Powered VCE Student Revision Tools (2025-2027)
+  *C Duffy, T Jalali, S Kuhlmann, J Thong, T Tran
+*Next Generation Tutorial Room Development (2022-2023)
+  *C Duffy, P Fijn, R Maillairdet, A Morphett, T Tran
+*Flipped Classroom Resources for Teaching Real Analysis (2022)
+  *C Duffy
+  
+**Editorial and Peer Review Work**
+======
+*Scientific Committee Member, 12th Annual International Conference on Algorithms and Discrete Applied Mathematics
+*Associate Editor, Ars Combinatoria
+*Peer Reviewer
+  *Australasian Conference on Science and Mathematics Education
+  *Australasian Society for Computers in Learning in Tertiary Education
+  *European Journal of Combinatorics
+  *Journal of Combinatorial Theory B
+  *Discrete Mathematics
+  *Discrete Applied Mathematics
+
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
+
   
 Education
 ======
