@@ -9,32 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+**Education**
 * Ph.D, University of Victoria/Université Bordeaux (co-tutelle), 2015
 * M.Sc (Discrete Mathematics), Univeristy of Victoria, 2011
 * B.Math (Hons), Univeristy of Waterloo, 2008
 
-Current Appointments
-======
+**Current Appointments**
 * Senior Lecturer, School of Mathematics and Statistics, Univeristy of Melbourne
 * Assistant Dean (Global Enagement), Faculty of Science, Univeristy of Melbourne
 
-Affliations and Memberships
-======
+**Affliations and Memberships**
 * Research Associate, Centre for Studies in Higher Education, University of Melbourne
 * Member, Combinatorial Mathematics Society of Australasia
 * Member, Australian Mathematical Society
 * Member, Eucation
 
-Previous Appointments
-======
+**Previous Appointments**
 * Senior Academic Fellow, Centre for Studies in Higher Education, Univeristy of Melbourne
 * Assistant Professor (Tenure Track), Department of Mathematics and Statistics, University of Saskatchewan
 * AARMS Postdoctoral Fellow, Dalhousie University
 
-Teaching and Learning Innovation Projects
-======
+**Teaching and Learning Innovation Projects**
 * SparkAI Powered VCE Student Revision Tools (2025-2027)
   * C Duffy, T Jalali, S Kuhlmann, J Thong, T Tran
 * Next Generation Tutorial Room Development (2022-2023)
@@ -42,8 +37,7 @@ Teaching and Learning Innovation Projects
 * Flipped Classroom Resources for Teaching Real Analysis (2022)
   * C Duffy
   
-Editorial and Peer Review Work
-======
+**Editorial and Peer Review Work** 
 * Scientific Committee Member, 12th Annual International Conference on Algorithms and Discrete Applied Mathematics
 * Associate Editor, Ars Combinatoria
 * Peer Reviewer
@@ -55,11 +49,9 @@ Editorial and Peer Review Work
   * Discrete Applied Mathematics
 
 
-Publications
-======
+**Publications**
   A full list of publications is available [here](/publications)
   
-Education
-======
+**Education**
   A full list of teaching roles is available here
   
