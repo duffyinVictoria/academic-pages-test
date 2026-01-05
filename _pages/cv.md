@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D, University of Victoria/Université Bordeaux (co-tutelle), 2015
+* M.Sc (Discrete Mathematics), Univeristy of Victoria, 2011
+* B.Math (Hons), Univeristy of Waterloo, 2008
 
-Work experience
+**Current Appointments**
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Senior Lecturer, School of Mathematics and Statistics, Univeristy of Melbourne
+* Assistant Dean (Global Enagement), Faculty of Science, Univeristy of Melbourne
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+**Affliations and Memberships**
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Associate, Centre for Studies in Higher Education, University of Melbourne
+* Member, Combinatorial Mathematics Society of Australasia
+* Member, Australian Mathematical Society
+
+**Previous Appointments**
+======
+* Senior Academic Fellow, Centre for Studies in Higher Education, Univeristy of Melbourne
+* Assistant Professor (Tenure Track), Department of Mathematics and Statistics, University of Saskatchewan
+* AARMS Postdoctoral Fellow, Dalhousie University
 
 Publications
 ======
@@ -53,12 +44,9 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Education
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
