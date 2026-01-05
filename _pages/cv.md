@@ -25,6 +25,7 @@ Affliations and Memberships
 * Research Associate, Centre for Studies in Higher Education, University of Melbourne
 * Member, Combinatorial Mathematics Society of Australasia
 * Member, Australian Mathematical Society
+* Member, Eucation
 
 Previous Appointments
 ======
