@@ -13,5 +13,5 @@ This includes work on oriented graphs, mixed graphs, and edge-coloured graphs, w
 
 A significant part of my research involves collaboration with students, and many projects originate in undergraduate and honours research. I am always looking for undergraduate students who are interested in research in discrete mathematics and/or theoretical computer science.
 
-A full list of my publications is available here [here](/publications)
+A full list of my publications is available [here](/publications)
 
