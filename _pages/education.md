@@ -5,4 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-Text to go here.
+Beyond teaching students mathematical facts and ideas, I am particularly interested in how subject design, assessment practices, and learning environments shape students’ sense of belonging and their capacity to develop confidence and independence.
+For this end I try, wherever possible, to provide students with broader context about the practice and culture of mathematics and how the idea of *thinking like a mathematician* can be of use to them not only learning mathematics, but in their time at Univeristy and beyond.
+
+A full list of my contributions to education is available [here](/edcontributions)
