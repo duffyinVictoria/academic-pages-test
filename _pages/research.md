@@ -8,8 +8,10 @@ author_profile: true
 My research lives in the intersection of discrete mathematics and theoretical computer science, with a focus on colouring, homomorphisms, and structural properties of directed, signed, and edge-coloured graphs. 
 Much of my work is concerned with understanding how classical notions from graph theory, such as chromatic number, transitivity, and clique structure, behave when extended to settings where edges carry additional structure, such as directions, signs, or colours.
 A recurring theme is the use of homomorphisms as a unifying framework for both structural and algorithmic questions. 
-I study how local constraints on orientation or colouring influence global behaviour.
-This includes work on oriented graphs, mixed graphs, and edge-coloured graphs, where familiar invariants often exhibit more subtle behaviour than in the undirected case. I am also interested in switching operations and symmetry in coloured graphs, including group-based switching and its role in equivalence, extremal constructions, and Ramsey-type problems. 
+
+I am also interested in switching operations and symmetry in graphs with arcs and/or edge colours. The image below gives a largest example of a 3-edge-coloured graph that cannot be switched (with respect to $C_3$) to contain a monochromatic $K_4$. Interestingly, this graph is also one of two largest examples of 3-edge-coloured graphs that contains no monochromatic $K_3$. This example was found by B Fok, an undergraduate student working on a semester-long research project.
+
+![C3 Ramsey Example](images/k16Normal)
 
 A significant part of my research involves collaboration with students, and many projects originate in undergraduate and honours research. I am always looking for undergraduate students who are interested in research in discrete mathematics and/or theoretical computer science.
 
