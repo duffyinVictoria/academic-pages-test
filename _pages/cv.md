@@ -52,5 +52,5 @@ redirect_from:
   A full list of publications is available [here](/publications)
   
 **Education and Professional Development**
-  A full list of contributions is available here [here](/edlist)
+  A full list of contributions is available [here](/edlist)
   
