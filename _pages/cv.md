@@ -22,7 +22,6 @@ redirect_from:
 * Research Associate, Centre for Studies in Higher Education, University of Melbourne
 * Member, Combinatorial Mathematics Society of Australasia
 * Member, Australian Mathematical Society
-* Member, Eucation
 
 **Previous Appointments**
 * Senior Academic Fellow, Centre for Studies in Higher Education, Univeristy of Melbourne
@@ -52,6 +51,6 @@ redirect_from:
 **Publications**
   A full list of publications is available [here](/publications)
   
-**Education**
-  A full list of teaching roles is available here
+**Education and Professional Development**
+  A full list of contributions is available here [here](/edlist)
   
