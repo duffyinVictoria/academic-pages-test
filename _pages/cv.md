@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **Education**
-* Ph.D, University of Victoria/Université Bordeaux (co-tutelle), 2015
+* Ph.D University of Victoria/Université Bordeaux (co-tutelle), 2015
 * M.Sc (Discrete Mathematics), Univeristy of Victoria, 2011
 * B.Math (Hons), Univeristy of Waterloo, 2008
 
