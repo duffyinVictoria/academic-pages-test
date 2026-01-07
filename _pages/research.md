@@ -14,7 +14,7 @@ I am also interested in switching operations and symmetry in graphs with arcs an
 
 ![C3 Ramsey Example](images/k16Normal)
 
-A significant part of my research involves collaboration with students, and many projects originate in undergraduate and honours research. I am always looking for undergraduate students who are interested in research in discrete mathematics and/or theoretical computer science.
+A significant part of my research involves collaboration with students. My research program has open lines of enquiry suitable for students at all levels. In particular, I am always looking for undergraduate students who are interested in research in discrete mathematics and/or theoretical computer science.
 
 A full list of my publications is available [here](/publications)
 
