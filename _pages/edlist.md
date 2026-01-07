@@ -22,7 +22,7 @@ author_profile: true
    * MATH151 (Finite Mathematics) 2012-2014
    * MATH099 (Mathematics Skills Workshop) 2014
    * MATH212 (Introduction to Abstract Algebra) 2013
-   * MATH161 (Mathematics for Elementary School Teachers)
+   * MATH161 (Mathematics for Elementary School Teachers) 2012
 
 **Professional Development Workshops and Panel Sessions**
 * *Planning for an Academic Career* (2025; Walter and Eliza Hall Institute of Medical Research)
