@@ -24,7 +24,7 @@ author_profile: true
    * MATH212 (Introduction to Abstract Algebra) 2013
    * MATH161 (Mathematics for Elementary School Teachers) 2011
 
-**Professional Development Workshops and Panel Sessions**
+**Professional Development Workshops**
 * *Planning for an Academic Career* (2025; Walter and Eliza Hall Institute of Medical Research)
   * co-designed and presented with M. Taylor
 * *Evidencing Quality, Impact and Influence* (2025; Education-Focussed Careers Retreat, University of Melbourne)
