@@ -26,16 +26,16 @@ author_profile: true
 
 **Professional Development Workshops and Panel Sessions**
 * *Planning for an Academic Career* (2025; Walter and Eliza Hall Institute of Medical Research)
- * co-designed and presented with M. Taylor
+  * co-designed and presented with M. Taylor
 * *Evidencing Quality, Impact and Influence* (2025; Education-Focussed Careers Retreat, University of Melbourne)
- * co-designed and presented with S. Marangell and J. Evans
+  * co-designed and presented with S. Marangell and J. Evans
 * *Education Focussed Career Pathways Workshop* (2025; Australian Conference on Science and Mathematics Education)
- * co-designed and presented with M. Salgari
+  * co-designed and presented with M. Salgari
 * *First Steps for Future Academics* (2025; Melbourne Centre for Studies in Higher Education)
 * *Generative AI is (not) going to ruin mathematics education* (2025; Calculus Intruction in Atlantic Canada Workshop) 
 * *AI in Higher Education* (2024; Melbourne Centre for Studies in Higher Education)
- * co-designed and presented with T. Cochrane and R. Mulder
+  * co-designed and presented with T. Cochrane and R. Mulder
 * *AI & Assessment Design in Humanities, Arts and Social Sciences* (2024; Melbourne Centre for Studies in Higher Education)
- * co-designed and presented with T. Cochrane and R. Mulder
+  * co-designed and presented with T. Cochrane and R. Mulder
 * *AI & Assessment Design in Science, Technology, Engineering and Mathematics* (2024; Melbourne Centre for Studies in Higher Education
- * co-designed and presented with T. Cochrane and R. Mulder
+  * co-designed and presented with T. Cochrane and R. Mulder
