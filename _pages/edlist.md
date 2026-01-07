@@ -37,5 +37,5 @@ author_profile: true
   * co-designed and presented with T. Cochrane and R. Mulder
 * *AI & Assessment Design in Humanities, Arts and Social Sciences* (2024; Melbourne Centre for Studies in Higher Education)
   * co-designed and presented with T. Cochrane and R. Mulder
-* *AI & Assessment Design in Science, Technology, Engineering and Mathematics* (2024; Melbourne Centre for Studies in Higher Education
+* *AI & Assessment Design in Science, Technology, Engineering and Mathematics* (2024; Melbourne Centre for Studies in Higher Education)
   * co-designed and presented with T. Cochrane and R. Mulder
